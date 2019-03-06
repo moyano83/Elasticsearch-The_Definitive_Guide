@@ -6,6 +6,7 @@
 2. [Chapter 2: Life Inside a Cluster](#Chapter2)
 3. [Chapter 3: Data In, Data Out](#Chapter3)
 4. [Chapter 4: Distributed Document Store](#Chapter4)
+5. [Chapter 5: Searching - The Basic Tools](#Chapter5)
  
 
 ## Chapter 1: You Know, for Search<a name="Chapter1"></a>
